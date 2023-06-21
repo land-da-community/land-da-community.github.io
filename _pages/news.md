@@ -7,11 +7,11 @@ Have a job you would like to share? Email us at landdacommunity@gmail.com!
 
 ### Jobs
 
-[Postdoctoral Associate to Investigate Elevated Heating Anomalies as Source of S2S Prediction Skill](https://aimesproject.org/wp-content/uploads/2023/06/UAlbany_postdoc_202306.docx) Application deadline: Rolling
+[Postdoctoral Associate to Investigate Elevated Heating Anomalies as Source of S2S Prediction Skill at University at Albany, New York, USA](https://aimesproject.org/wp-content/uploads/2023/06/UAlbany_postdoc_202306.docx) Application deadline: Rolling
 
-PAST [Postdoctoral Scholar Position in carbon cycle of mountainous regions of the Western U.S. at University of Utah, Salt Lake City, Utah](https://utah.peopleadmin.com/postings/135290) Application deadline: Rolling
+PAST [Postdoctoral Scholar Position in carbon cycle of mountainous regions of the Western U.S. at University of Utah, Utah, USA](https://utah.peopleadmin.com/postings/135290) Application deadline: Rolling
 
-PAST [Research Scientist Position in GEOS model development to understand High Mountain Asia Forecast Models at Goddard Space and Flight center, Greenbelt, Maryland](https://gestar2.umbc.edu/jobs-at-gestar-ii/research-scientist-position-in-geos-model-development-to-understand-high-mountain-asia-forecast-models/) Application deadline: Rolling
+PAST [Research Scientist Position in GEOS model development to understand High Mountain Asia Forecast Models at Goddard Space and Flight center, Greenbelt, Maryland, USA](https://gestar2.umbc.edu/jobs-at-gestar-ii/research-scientist-position-in-geos-model-development-to-understand-high-mountain-asia-forecast-models/) Application deadline: Rolling
 
 PAST [Postdoctoral Scholar – Hydrology, Remote Sensing and Data Assimilation at the University of California, Berkeley, USA](https://aimesproject.org/wp-content/uploads/2022/06/Postdoctoral-Scholar-THP-2022.docx) Application deadline: Rolling
 
