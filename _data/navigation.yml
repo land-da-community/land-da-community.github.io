@@ -11,15 +11,15 @@ main:
   
   - title: "News and Opportunities"
     url: /news/ 
- 
-  - title: "Publications"
-    url: /publications/
 
   - title: "Training"
     url: /training/    
     
   - title: "Early Career"
     url: /ecr/
+
+  - title: "Publications"
+    url: /publications/
     
   - title: "Working Groups"
     url: /wg/
