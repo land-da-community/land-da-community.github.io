@@ -14,7 +14,7 @@ Conferences and Workshops
 ======
 ## *Upcoming*
 
-### 3rd Annual Land Data Assimilation Community Virtual Workshop: Recent Technical Developments in Land Data Assimilation, 24th-25th June 2024 1am-1pm EDT, Online 
+### 4th Annual Land Data Assimilation Community Virtual Workshop: Recent Technical Developments in Land Data Assimilation, 24th-25th June 2024 1am-1pm EDT, Online 
 [Register](https://aimesproject.org/land_da_workshop_2024/)
 
 >**When:** Monday 24th June 2024 to 25th June 2024, 10:00-13:00 EDT // 17:00-19:00 CEST
