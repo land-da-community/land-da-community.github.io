@@ -10,10 +10,7 @@ main:
     url: /events/ 
   
   - title: "News and Opportunities"
-    url: /news/ 
-
-  - title: "GitHub"
-    url: /github/  
+    url: /news/  
 
   - title: "Training"
     url: /training/    
@@ -23,9 +20,6 @@ main:
 
   - title: "Publications"
     url: /publications/
-    
-  - title: "Working Groups"
-    url: /wg/
     
   - title: "Logos"
     url: /logos/
