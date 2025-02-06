@@ -3,7 +3,7 @@ title: "An Agenda for Land Data Assimilation Priorities: Realizing the Promise o
 collection: publications
 permalink: /publication/2022-Kumar-JAMES
 excerpt: 'This review article summarizes the advances and important gaps remainin in current land DA research and applications.'
-date: 2022-3-10
+date: 2022-03-10
 venue: 'Journal of Advances in Modeling Earth Systems'
 paperurl: 'https://doi.org/10.1029/2022MS003259'
 citation: 'Kumar et al. (2022)'
