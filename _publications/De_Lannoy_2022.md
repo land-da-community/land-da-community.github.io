@@ -3,7 +3,7 @@ title: "Perspective on satellite-based land data assimilation to estimate water 
 collection: publications
 permalink: /publication/De_Lannoy_2022_Frontiers
 excerpt: 'An invited perspective paper on ways to utilize satellite-based land data assimilation to esitmate water cycle components. A companion review to Kumar et al., 2022.'
-date: 2022
+date: 2022-03-10
 venue: 'Frontiers in Water'
 paperurl: 'https://doi.org/10.3389/frwa.2022.981745'
 citation: 'De Lannoy et al. (2022)'
