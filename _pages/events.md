@@ -14,7 +14,7 @@ Conferences and Workshops
 ======
 ## *Upcoming*
 
->### Calibrated Land Model Intercomparison Project (CalLMIP): Planning & Development Workshop
+>## Calibrated Land Model Intercomparison Project (CalLMIP): Planning & Development Workshop
 >
 >**When:** 
 > - Session 1: Thursday, March 6 at 8:00-9:30 pm EST OR Friday, March 7 at 10:00-11:30 am EST 
