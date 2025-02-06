@@ -33,6 +33,8 @@ Conferences and Workshops
 
 
 ## *Past*
+- [Terrestrial Carbon Community Assimilation System User Training](https://tccas-study.inversion-lab.com/training.html)
+- [4th Annual Land DA Community 2024 Workshop: "Developments in Land Data Assimilation"](https://aimesproject.org/land_da_workshop_2024/)
 - [3rd Annual Land DA Community 2023 Workshop: "Recent Technical Developments in Land Data Assimilation"](https://aimesproject.org/lda_workshop_2023/)
 - [Town Hall on Machine Learning for Land Data Assimilation, 2023](https://aimesproject.org/machine-learning-town-hall/) 
 - [Town Hall on Ensemble Methods for Land Data Assimilation, 2023](https://aimesproject.org/ensembles-town-hall/) 
