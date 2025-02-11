@@ -23,5 +23,3 @@ The [Data Assimilation Research Section within the National Center of Atmospheri
 [NASA LDA](https://ldas.gsfc.nasa.gov/)
 
 [ORCHIDEE LDA](https://orchidas.lsce.ipsl.fr/)
-
-[NCAR DART](https://dart.ucar.edu/)
