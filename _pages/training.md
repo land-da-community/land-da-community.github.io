@@ -9,7 +9,7 @@ The [Data Assimilation Research Section within the National Center of Atmospheri
 
 - [CLM-Dart Tutorial](https://dart.ucar.edu/tutorials/clm-dart/)
 - [WRF-DART tutorial](https://dart.ucar.edu/tutorials/wrf-dart/)
-- [The Dart tutorial](https://dart.ucar.edu/tutorials/dart-tutorial/)
+- [The DART tutorial](https://dart.ucar.edu/tutorials/dart-tutorial/)
 - [An introduction to data assimilation using MATLAB](https://dart.ucar.edu/tutorials/dart-lab/)
 
 [ECMWF Data Assimilation Tutorial](https://www.ecmwf.int/en/learning/training/data-assimilation/)
