@@ -4,7 +4,13 @@ title: "Resources and Training"
 ---
 
 ### Online Tutorials
-The [Data Assimilation Research Section within the National Center of Atmospheric Research](https://dart.ucar.edu/) has made EnKF software tools openly available and currently hosts a publicly accessible software repository on [https://github.com/NCAR/DART](https://github.com/NCAR/DART), which includes documentation and training tutorials for a variety of earth system models and land models.
+
+The [Data Assimilation Research Section within the National Center of Atmospheric Research](https://dart.ucar.edu/) has made EnKF software tools openly available and currently hosts a publicly accessible software repository on [https://github.com/NCAR/DART](https://github.com/NCAR/DART) and includes training tutorials for a variety of earth system models and land models including:
+
+- [CLM-Dart Tutorial](https://dart.ucar.edu/tutorials/clm-dart/)
+- [WRF-DART tutorial](https://dart.ucar.edu/tutorials/wrf-dart/)
+- [The Dart tutorial](https://dart.ucar.edu/tutorials/dart-tutorial/)
+- [An introduction to data assimilation using MATLAB](https://dart.ucar.edu/tutorials/dart-lab/)
 
 [ECMWF Data Assimilation Tutorial](https://www.ecmwf.int/en/learning/training/data-assimilation/)
 
