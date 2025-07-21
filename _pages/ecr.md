@@ -33,10 +33,10 @@ Self-nominations should include:
 ## Deadlines
 **Self-Nominations**
 
-Statements of interest should be received electronically by August 18, 2025.
+Statements of interest should be received electronically by **August 18, 2025.**
 
 **Acceptance Notification**
 
-Notification of acceptance will be made by September 1, 2025.
+Notification of acceptance will be made by **September 1, 2025.**
 
 If you have trouble accessing the form, please email aimes[at]futureearth.org. 
