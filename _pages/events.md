@@ -14,21 +14,20 @@ Conferences and Workshops
 ======
 ## *Upcoming*
 
->## 5th Annual Land DA Community Virtual Workshop
+>## Virtual launch of the 1st Phase Calibrated Land Model Intercomparison Project (CalLMIP)
 >
 >**Dates:** <br>
->October 27-28, 2025, Virtual <br><br>
+>Monday 24th November, Virtual <br><br>
 >**Time:** <br>
->Two live sessions will take place each day from 10:00 AM to 12:00 PM Eastern Daylight Time (EDT) and another from 10:00 AM to 12:00 PM China Standard Time (CST).<br><br>
->**About:**
->Technical challenges are the focus of this annual meeting as the scientific questions that lie behind those technical developments are typically the focus of other professional meetings and conferences. To strengthen communication between modeling groups, this workshop will bring together land DA scientists to highlight a range of DA methods used within the community, discuss challenges facing different modeling communities, and identify strategies for addressing those challenges. We welcome participation from a broad range of research interests including land surface states and fluxes (carbon, energy, and water cycles to crop, fire, and land management), timescales (daily, seasonal to subseasonal, centennial/millennial), and scientific and practical applications (improving understanding of carbon-climate feedbacks, weather prediction, agricultural forecasting, and climate change impacts). This workshop continues to foster knowledge exchange and promote the routine use of DA tools in the wider modeling community. We seek to strengthen connections between land DA communities to tackle technical challenges and build a collaborative land DA community inclusive of all backgrounds and career stages. <br><br>
->**Call for Abstracts:**
->We invite abstracts for talks that focus on the technical challenges of developing land data assimilation systems. Submit your abstract [here](https://docs.google.com/forms/d/e/1FAIpQLSd2AH4u2jrIK75PWkGZM8t0-EBxEW5lhMV-7AvHg1n2ldpRzg/viewform). <br><br>
->**Deadline:**
->**The abstract submission deadline is Friday, September 5.** If you experience any issues with the Google Form, you can submit your abstract via email to aimes[at]futureearth.org. <br>
+>Two live sessions will take place at 10am ET (7am PT, 4pm CET, 11pm CST) and another at 8pm ET (5pm PT, 2am CET, 9am CST (+1, Tuesday 25th Nov).<br><br>
+>**Meeting Link:** <br>
+>Use [this link](https://westernuniversity.zoom.us/j/92514293787) to join the meeting. <br><br> 
+>**About:** <br>
+>During the webinar we will present updates on the CalLMIP 1st phase planning, the final protocol, plan for papers, and information for modeling groups who wish to participate. Thank you to those who participated in the 1st phase planning workshops (held back in March and April this year) and those who provided feedback on the draft protocol. A reminder that recordings of those 1st phase planning workshops can be found [here](https://aimesproject.org/5th-annual-land-data-assimilation-community-workshop/). <br><br>
 
 ---
 ## *Past*
+- [5th Annual Land DA Community Virtual Workshop](https://aimesproject.org/5th-annual-land-data-assimilation-community-workshop/)
 - [Calibrated Land Model Intercomparison Project (CalLMIP): Planning & Development Workshop](https://aimesproject.org/cal-lmip/)
 - [Terrestrial Carbon Community Assimilation System User Training](https://tccas-study.inversion-lab.com/training.html)
 - [4th Annual Land DA Community 2024 Workshop: "Developments in Land Data Assimilation"](https://aimesproject.org/land_da_workshop_2024/)
